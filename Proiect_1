@@ -1,3 +1,6 @@
+//cerinta
+
+
 #include<LiquidCrystal.h>
 const int RED  =3;
 const int BLUE  =4;
