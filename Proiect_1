@@ -1,4 +1,4 @@
-//cerinta
+//Realizati un sistem ce contine un sonar, care prin intermediul unui LCD sa afiseze distanta sonar -> LCD
 
 
 #include<LiquidCrystal.h>
